@@ -1,0 +1,4 @@
+genyplay
+========
+
+Genymotion utility
